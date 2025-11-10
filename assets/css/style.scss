@@ -1,6 +1,11 @@
 ---
 ---
 
+@import 'variables';
+@import 'mixins';
+@import 'layout';
+    // Add other imports as needed
+
 /* Example variables & nesting */
 $brand: #4c74ff;
 
