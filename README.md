@@ -18,4 +18,9 @@ Prompt Chat GPT with "how to generate a SCSS styled site to be deployed to githu
 * If you do want a local build, check out the command line tool. Have not played with it myself. https://jekyllrb.com/docs/usage/
 * Don't sweat breaking your stuff out to different files for now, just get started in assets/css/style.scss
 
-* If this repo is handy for you (and you can fix the SCSS import issue) then feel free to clone it down, remove the .git file, and then git init all  over again. 
+* If this repo is handy for you (and you can fix the SCSS import issue) then feel free to clone it down, remove the .git file, and then git init all  over again.
+
+* OK, build passing again. Feel free to make changes in assets/css/style.scss  & index.html to get you started.
+
+
+<img width="725" height="248" alt="Screenshot 2025-11-09 at 10 32 30 PM" src="https://github.com/user-attachments/assets/9024b06b-723d-4397-a0ee-31bcae23b3fb" />
