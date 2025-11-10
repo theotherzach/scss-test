@@ -3,5 +3,5 @@ layout: default
 title: Home
 ---
 
-# Hello, GitHub Pages + SCSS
-This is styled with a single SCSS file.
+<h1 id="hello-github-pages--scss">Hello, GitHub Pages + SCSS</h1>
+<p>This is styled with a single SCSS file.</p>
