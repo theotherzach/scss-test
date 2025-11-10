@@ -1,5 +1,7 @@
 # scss-test
 
+See me at https://theotherzach.github.io/scss-test/
+
 Prompt Chat GPT with "how to generate a SCSS styled site to be deployed to github pages. It'll give you the general rundown.
 
 * import additional .scss files in  assets/css/style.scss (not working right now, not sure why, might just need to start coding in that file for the time being.
